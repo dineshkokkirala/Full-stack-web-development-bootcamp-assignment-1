@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bgc {
+  background-color: #323d4a !important;
+}
+.profile {
+  height: 500px;
+  text-align: center;
+  background-color: #1bbc9b;
+}
+.resImg {
+  border-radius: 50%;
+}
+.data {
+  padding-top: 100px;
+}
+.data > h1 {
+  font-size: 50px;
+}
+.des {
+  color: #fff;
+  font-weight: 400;
+}
+.works {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.about {
+  height: 400px;
+  margin-top: 50px;
+  background-color: #1bbc9b;
+  text-align: center;
+  padding-top: 50px;
+}
+.about_data {
+  color: #fff;
+}
+.about_data > h1 {
+  font-size: 40px;
+}
+.contact {
+  margin-top: 50px;
+  text-align: center;
+}
+.frm {
+  max-width: 600px;
+  margin: 20px auto;
+}
+.btnColor {
+  background-color: #1bbc9b !important;
+  color: #fff !important;
+  font-weight: 500 !important;
+}
+.foot {
+  height: 100%;
+  margin-top: 80px;
+  background-color: #323d4a;
+}
